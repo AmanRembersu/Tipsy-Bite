@@ -1,12 +1,6 @@
 # Tipsy-Bite
 This project is a simple and elegant website for a restaurant, built using HTML and CSS. The key highlight of this project is the creative use of the CSS backdrop-filter property to achieve a stylish background blur effect.
 
-
-Certainly! Here's a sample GitHub description for a restaurant website project that focuses on background blurring using HTML and CSS:
-
-Restaurant Website with Background Blurring
-Welcome to the Restaurant Website project! This project is a simple and elegant website for a restaurant, built using HTML and CSS. The key highlight of this project is the creative use of the CSS backdrop-filter property to achieve a stylish background blur effect.
-
 Features:
 Responsive Design: The website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
